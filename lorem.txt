@@ -2,3 +2,6 @@ random
 
 
 probando un update agregando lina
+
+
+probando precommit sin estar en vpn
